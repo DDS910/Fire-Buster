@@ -17,6 +17,9 @@ Game ini dibangun menggunakan Unity, dengan skenario interaktif untuk membantu p
 - **Sistem Partikel**: Digunakan untuk simulasi efek api dan asap.  
 - **Sistem Audio**: Menggunakan komponen audio dalam Unity untuk memberikan pengalaman suara yang dinamis.
 
+## Link Game
+Berikut adalah link untuk mencoba memainkan game Fire Buster : https://github.com/DDS910/Fire-buster.exe.git
+
 ## Kontak
 - **Email** : sutantodenis@gmail.com
 - **Github** : DDS910
