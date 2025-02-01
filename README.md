@@ -19,7 +19,6 @@ The game is built using Unity, featuring interactive scenarios to help players r
 
 ## Game Link
 Here is the link to try out the Fire Buster game: https://github.com/DDS910/Fire-buster.exe.git
-or you can download in itch.io : https://itch.io/user/settings/connected-accounts
 
 ## Contact
 - **Email** : sutantodenis@gmail.com
